@@ -4,5 +4,4 @@ machine:
 
 test:
   override:
-  - cat 1.txt
   - cat README.md
