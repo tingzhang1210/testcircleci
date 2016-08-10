@@ -1,0 +1,8 @@
+machine:
+  java:
+    version: openjdk7
+
+test:
+  override:
+  - cat 1.txt
+  - cat README.md
